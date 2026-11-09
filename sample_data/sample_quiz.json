@@ -1,0 +1,67 @@
+{
+  "title": "Basic Property Knowledge Quiz",
+  "topic": "Property Market Knowledge",
+  "difficulty": "Beginner",
+  "questions": [
+    {
+      "question": "What is the main purpose of a property listing?",
+      "options": [
+        "To advertise a property available for sale or rent",
+        "To calculate employee salaries",
+        "To register a vehicle",
+        "To apply for a passport"
+      ],
+      "correct_index": 0,
+      "explanation": "A property listing presents important information about a property that is available for sale or rent, helping potential buyers or tenants discover it.",
+      "learning_point": "A good property listing should include accurate descriptions, pricing, photos, and location information."
+    },
+    {
+      "question": "What does KPR stand for in the Indonesian property market?",
+      "options": [
+        "Kredit Pemilikan Rumah",
+        "Kontrak Pembayaran Ruko",
+        "Kawasan Perumahan Regional",
+        "Kredit Pembelian Ruangan"
+      ],
+      "correct_index": 0,
+      "explanation": "KPR stands for Kredit Pemilikan Rumah, a home financing facility provided by financial institutions.",
+      "learning_point": "Understanding KPR helps property professionals explain common home financing options to customers."
+    },
+    {
+      "question": "Which information is most important when evaluating a property's location?",
+      "options": [
+        "Nearby facilities and accessibility",
+        "The owner's favorite color",
+        "The agent's personal hobbies",
+        "The property's social media followers"
+      ],
+      "correct_index": 0,
+      "explanation": "Accessibility and nearby facilities such as schools, hospitals, public transportation, and shopping areas can influence a property's convenience and attractiveness.",
+      "learning_point": "Location information helps potential buyers or tenants evaluate whether a property suits their needs."
+    },
+    {
+      "question": "What should a property agent do before publishing a property listing?",
+      "options": [
+        "Verify the property information with the owner",
+        "Invent an attractive selling price",
+        "Copy information from an unrelated listing",
+        "Publish without checking the details"
+      ],
+      "correct_index": 0,
+      "explanation": "Verifying information with the owner helps ensure that property details are accurate and trustworthy.",
+      "learning_point": "Accuracy and transparency are essential for building customer trust."
+    },
+    {
+      "question": "What is the main benefit of using property technology platforms?",
+      "options": [
+        "Making property information easier to discover and compare",
+        "Removing the need to verify property information",
+        "Guaranteeing that every property will be sold",
+        "Eliminating all communication with customers"
+      ],
+      "correct_index": 0,
+      "explanation": "Property technology platforms help users discover, organize, and compare property information more efficiently.",
+      "learning_point": "Technology supports the property journey, but accurate information and good customer service remain important."
+    }
+  ]
+}
